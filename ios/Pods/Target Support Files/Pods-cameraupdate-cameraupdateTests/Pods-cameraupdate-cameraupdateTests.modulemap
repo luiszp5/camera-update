@@ -1,0 +1,6 @@
+module Pods_cameraupdate_cameraupdateTests {
+  umbrella header "Pods-cameraupdate-cameraupdateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
