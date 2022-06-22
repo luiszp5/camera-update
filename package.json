@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react-native": "0.68.2",
+    "react-native-image-picker": "https://github.com/luiszp5/react-native-image-picker.git"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
